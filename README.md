@@ -1,5 +1,5 @@
 <style>
-  img[alt="I am"] {
+  img[src*="#image"] {
     object-fit: cover;
     scale: 0.75;
     border-radius: 25px;
@@ -8,9 +8,7 @@
 
 ## Hello, I'm pavelbeard 👋
 
-<p>
-  <img src="./images/iam.webp" alt="I am" />
-</p>
+![i-am](./images/iam.webp#image)
 
 - 🔍 I'm currently looking for job opportunities as Frontend/Fullstack Developer
 - 🤓 I'm currently learning and applying in my projects: React, NextJS, Node.js, TypeScript, PostgreSQL, MongoDB, Django, Docker and more
