@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hello, I'm pavelbeard 👋
 
+<p>
+  <img width="200" height="400" src="./images/my.png" alt="I am" />
+</p>
+
+I'm currently looking for job opprtunities
 <!--
 **pavelbeard/pavelbeard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
