@@ -1,7 +1,7 @@
 ## Hello, I'm pavelbeard 👋
 
 <p>
-  <img width="200" height="400" src="./images/my.png" alt="I am" />
+  <img width="200" height="400" src="./IMG_2896.jpeg" alt="I am" />
 </p>
 
 I'm currently looking for job opprtunities
