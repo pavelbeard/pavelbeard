@@ -1,15 +1,7 @@
 ## Hello, I'm pavelbeard 👋
 
-<style>
-  img[alt="I am"] {
-    object-fit: cover;
-    scale: 0.75;
-    border-radius: 25px;
-  }
-  </style>
-
 <p>
-  <img src="./images/iam.webp" alt="I am" />
+  <img src="./images/iam.webp" style="object-fit: cover; scale: 0.75; border-radius: 25px;" alt="I am" />
 </p>
 
 - 🔍 I'm currently looking for job opportunities as Frontend/Fullstack Developer
