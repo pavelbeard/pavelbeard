@@ -1,14 +1,18 @@
-<!-- <style>
-  img[src*="#image"] {
-    object-fit: cover;
-    scale: 0.75;
-    border-radius: 25px;
-  }
-</style> -->
-
 ## Hello, I'm pavelbeard 👋
 
-![i-am](./images/iam.webp#image)
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 700 933" preserveAspectRatio="4/3">
+  <foreignObject width="100%" height="100%">
+    <style>
+      img {
+        object-fit: cover;
+        scale: 0.75;
+        border-radius: 25px;
+      }
+      </style>
+    <img src="./images/iam.webp" alt="I am" />
+  </foreignObject>
+</svg>
+
 
 - 🔍 I'm currently looking for job opportunities as Frontend/Fullstack Developer
 - 🤓 I'm currently learning and applying in my projects: React, NextJS, Node.js, TypeScript, PostgreSQL, MongoDB, Django, Docker and more
