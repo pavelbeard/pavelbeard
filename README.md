@@ -2,7 +2,8 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 700 933" preserveAspectRatio="4/3">
   <foreignObject width="100%" height="100%">
-    <style>
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-size:40px; font-family:Arial, Helvetica, sans-serif; color:#000000;">
+      <style>
       img {
         object-fit: cover;
         scale: 0.75;
@@ -10,6 +11,7 @@
       }
       </style>
     <img src="./images/iam.webp" alt="I am" />
+    </div>
   </foreignObject>
 </svg>
 
