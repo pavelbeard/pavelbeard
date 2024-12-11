@@ -1,10 +1,10 @@
-<style>
+<!-- <style>
   img[src*="#image"] {
     object-fit: cover;
     scale: 0.75;
     border-radius: 25px;
   }
-</style>
+</style> -->
 
 ## Hello, I'm pavelbeard 👋
 
