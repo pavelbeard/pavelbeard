@@ -1,10 +1,24 @@
 ## Hello, I'm pavelbeard 👋
 
+<style>
+  img[alt="I am"] {
+    object-fit: cover;
+    scale: 0.75;
+    border-radius: 25px;
+  }
+  </style>
+
 <p>
-  <img width="200" height="400" style={{objectFit: "contain"}} src="./IMG_2896.jpeg" alt="I am" />
+  <img src="./images/iam.webp" alt="I am" />
 </p>
 
-I'm currently looking for job opprtunities
+- 🔍 I'm currently looking for job opportunities as Frontend/Fullstack Developer
+- 🤓 I'm currently learning and applying in my projects: React, NextJS, Node.js, TypeScript, PostgreSQL, MongoDB, Django, Docker and more
+- 📬 How to reach me: pavelborodin0095@gmail.com
+- My projects are here. Look them at my pins below 👇 
+ - 🗣️ Languages I speak: 🇪🇸 🇬🇧
+ - ⚡️ Fun fact: I used to hate programming when i was a student, but now I love it 😄
+
 <!--
 **pavelbeard/pavelbeard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
