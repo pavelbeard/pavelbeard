@@ -1,6 +1,10 @@
 # Hello, I'm PavelBeard 👋
 
-<style> img { object-fit: cover; scale: 0.75; border-radius: 25px; } </style>
+<img 
+  src="https://via.placeholder.com/150" 
+  style="border-radius: 15px; width: 200px; height: 150px; object-fit: cover; border: 2px solid #000;" 
+  alt="Styled Image"
+/>
 
 ## 👨‍💻 About Me
 Hi there! I'm a **Frontend/Fullstack Developer** with a passion for building engaging and user-friendly web applications.  
