@@ -13,7 +13,7 @@ I am currently looking for exciting job opportunities to further grow and contri
 ---
 
 ### 🔍 **What I'm Focused On**
-- Exploring and mastering new technologies to stay ahead in the fast-evolving tech landscape.
+- I dedicate to explore and mastering new technologies.
 - Continuously learning and applying these skills to real-world projects.
 
 ---
