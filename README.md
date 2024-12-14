@@ -2,7 +2,7 @@
 
 <img 
   src="./images/iam.webp" 
-  style="border-radius: 15px; width: 200px; height: 150px; object-fit: cover; border: 2px solid #000;" 
+  style="border-radius: 15px; object-fit: cover; border: 2px solid #000;" 
   alt="Styled Image"
 />
 
