@@ -1,39 +1,42 @@
-## Hello, I'm pavelbeard 👋
+# Hello, I'm PavelBeard 👋
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 700 933" preserveAspectRatio="4/3">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="font-size:40px; font-family:Arial, Helvetica, sans-serif; color:#000000;">
-      <style>
-      img {
-        object-fit: cover;
-        scale: 0.75;
-        border-radius: 25px;
-      }
-      </style>
-    <img src="./images/iam.webp" alt="I am" />
-    </div>
-  </foreignObject>
-</svg>
+<style> img { object-fit: cover; scale: 0.75; border-radius: 25px; } </style>
 
+## 👨‍💻 About Me
+Hi there! I'm a **Frontend/Fullstack Developer** with a passion for building engaging and user-friendly web applications.  
+I am currently looking for exciting job opportunities to further grow and contribute my skills.
 
-- 🔍 I'm currently looking for job opportunities as Frontend/Fullstack Developer
-- 🤓 I'm currently learning and applying in my projects: React, NextJS, Node.js, TypeScript, PostgreSQL, MongoDB, Django, Docker and more
-- 📬 How to reach me: <pavelborodin0095@gmail.com>
-- My projects are here. Look them at my pins below 👇
-- 🗣️ Languages I speak: 🇪🇸 🇬🇧
-- ⚡️ Fun fact: I used to hate programming when i was a student, but now I love it 😄
+---
 
-<!--
-**pavelbeard/pavelbeard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔍 **What I'm Focused On**
+- Exploring and mastering new technologies to stay ahead in the fast-evolving tech landscape.
+- Continuously learning and applying these skills to real-world projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤓 **Currently Working With**
+- **Frontend**: React, NextJS  
+- **Backend**: Node.js, Django  
+- **Databases**: PostgreSQL, MongoDB  
+- **Others**: TypeScript, Docker, and more!  
+
+---
+
+### 🗣️ **Languages I Speak**
+- 🇪🇸 Spanish (B1)  
+- 🇬🇧 English (Fluent)
+
+---
+
+### 📬 **How to Reach Me**
+📧 Email: [pavelborodin0095@gmail.com](mailto:pavelborodin0095@gmail.com)
+
+---
+
+### ⚡️ **Fun Fact**
+When I was a student, I used to hate programming. But now, it’s my favorite thing to do! 😄
+
+---
+
+### 📌 **My Projects**
+Take a look at my pinned repositories below! 👇
