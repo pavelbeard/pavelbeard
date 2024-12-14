@@ -2,6 +2,7 @@
 
 <img 
   src="./images/iam.webp" 
+  style="width: 150px"
   alt="Styled Image"
 />
 
