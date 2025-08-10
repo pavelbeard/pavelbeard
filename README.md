@@ -27,8 +27,8 @@ I am currently looking for exciting job opportunities to further grow and contri
 ---
 
 ### 🗣️ **Languages I Speak**
-- 🇪🇸 Spanish (B1)  
-- 🇬🇧 English (A2)
+- 🇪🇸 Spanish (B2)  
+- 🇬🇧 English (B2)
 
 ---
 
