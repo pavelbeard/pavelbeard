@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 Fullstack / Web Developer with **3+ years of experience** designing, developing, and deploying modern web applications.  
-Specialized in **JavaScript / TypeScript, React, Node.js, Express, MongoDB, Next.js** and modern frontend/backend architectures.  
+Specialized in **Python, JavaScript / TypeScript, React, Node.js, FastAPI, Django, Express, MongoDB, Next.js** and modern frontend/backend architectures.  
 Passionate about clean code, scalable solutions, and intuitive user interfaces. Experienced in delivering client-oriented applications and internal tools from concept to production deployment.
 
 ---
