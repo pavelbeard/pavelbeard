@@ -7,28 +7,30 @@
 />
 
 ## 👨‍💻 About Me
-Hi there! I'm a **Frontend/Fullstack Developer** with a passion for building engaging and user-friendly web applications.  
-I am currently looking for exciting job opportunities to further grow and contribute my skills.
+Fullstack / Web Developer with **3+ years of experience** designing, developing, and deploying modern web applications.  
+Specialized in **JavaScript / TypeScript, React, Node.js, Express, MongoDB, Next.js** and modern frontend/backend architectures.  
+Passionate about clean code, scalable solutions, and intuitive user interfaces. Experienced in delivering client-oriented applications and internal tools from concept to production deployment.
 
 ---
 
 ### 🔍 **What I'm Focused On**
-- I dedicate to explore and mastering new technologies.
-- Continuously learning and applying these skills to real-world projects.
+- Building high-quality, maintainable, and scalable applications.  
+- Continuously learning and applying new technologies to real-world projects.  
+- Leveraging AI, automation, and modern frameworks to improve development workflows.
 
 ---
 
 ### 🤓 **Currently Working With**
-- **Frontend**: React, NextJS  
-- **Backend**: Node.js, Django  
+- **Frontend**: React, Next.js, TailwindCSS  
+- **Backend**: Node.js (Express), Django, FastAPI  
 - **Databases**: PostgreSQL, MongoDB  
-- **Others**: TypeScript, Docker, and more!  
+- **Others**: TypeScript, Docker, Turborepo, Git, Testing (Vitest, Jest, Playwright, Pytest)
 
 ---
 
 ### 🗣️ **Languages I Speak**
 - 🇪🇸 Spanish (B2)  
-- 🇬🇧 English (B2)
+- 🇬🇧 English (B2)  
 
 ---
 
